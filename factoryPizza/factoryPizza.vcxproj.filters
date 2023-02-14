@@ -36,6 +36,12 @@
     <ClCompile Include="ChicagoStyleCheesePizza.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="ChicagoStyleVegitirianPizza.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="NYStyleVegitirianPizza.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Pizza.h">
@@ -54,6 +60,12 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="ChicagoStyleCheesePizza.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="ChicagoStyleVegitirianPizza.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="NYStyleVegitirianPizza.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
